@@ -20,4 +20,4 @@
 
 # Proxy
 - go to server.h then change the IP and Port to your GTPS Target
-- # You also can make the server.h using json.
+- You also can make the server.h using json system
