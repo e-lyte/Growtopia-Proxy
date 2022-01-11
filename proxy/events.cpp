@@ -378,7 +378,7 @@ bool events::in::variantlist(gameupdatepacket_t* packet) {
         case fnv32("OnSendToServer"): g_server->redirect_server(varlist); return true;
 
         case fnv32("OnConsoleMessage"): {
-            varlist[1] = "`4[ETERNALS]`` " + varlist[1].get_string();
+            varlist[1] = "`4[ESCR]`` " + varlist[1].get_string();
             g_server->send(true, varlist);
             return true;
         } break;
