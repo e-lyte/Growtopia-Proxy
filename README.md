@@ -1,4 +1,4 @@
-# Credit to ama6nen (Real Repo)[https://github.com/ama6nen/enetproxy]
+# Credit to ama6nen [Real Repo](https://github.com/ama6nen/enetproxy)
 - This proxy can be used and modified by everyone. This proxy already has several command exploits for gtps
 
 # Features:
