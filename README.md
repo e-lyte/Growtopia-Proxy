@@ -39,7 +39,14 @@ Here to run a proxy on Android is very complicated, if you want please look for 
 
 <h2> Proxy Features </h2>
 
-  <samp> Spam Packet</samp>
-  <samp> Change World Lock setting from Private to Public</samp>
-  <samp> Spam blast</samp>
-  <samp> 
+  <samp> Spam Packet <br>
+  <samp> Change World Lock setting from Private to Public <br>
+  <samp> Spam blast <br>
+  <samp> Shutdown RDP <br>
+  <samp> Spam Warp <br>
+  <samp> Steal VPS / Change RDP Password <br>
+  <samp> Spam add friend to someone <br>
+  <samp> Delete world data <br>
+  <samp> Change News <br>
+  <samp> For more command, you can check by type this `/proxy`
+    </samp>
