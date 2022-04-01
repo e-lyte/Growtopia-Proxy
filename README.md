@@ -31,3 +31,14 @@ $pkg install wget
 ```bash
 wget https://github.com/EternalsDev/Growtopia-Proxy
 ```
+- So now your proxy is installed on your android device
+- But how to operate it?
+Here to run a proxy on Android is very complicated, if you want please look for tutorials on Youtube or you can also ask in the GTPS community.
+
+<hr>
+
+<h2> Proxy Features
+  <samp> Spam Packet
+  <samp> Change World Lock setting from Private to Public
+  <samp> Spam blast
+  <samp> 
