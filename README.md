@@ -140,4 +140,4 @@ Growtopia-Proxy/
 <hr>
 
 ### More
-- This proxy was made by [aman6nen](https://github.com/ama6nen) and modified by [Eternals](https://github.com/EternalsDev)
+- This proxy was made by [ama6nen](https://github.com/ama6nen) and modified by [Eternals](https://github.com/EternalsDev)
