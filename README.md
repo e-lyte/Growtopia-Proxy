@@ -23,11 +23,11 @@ First, [download](https://visualstudio.microsoft.com/downloads/) Visual Studio `
 
 - Install Termux on Google Play Store or [click here](https://play.google.com/store/apps/details?id=com.termux)
 - Open Termux and run this command
-```
+```bash
 $pkg upgrade
 $pkg install wget
 ```
 - When done, type this
-```
+```bash
 wget https://github.com/EternalsDev/Growtopia-Proxy
 ```
