@@ -37,7 +37,7 @@ Here to run a proxy on Android is very complicated, if you want please look for 
 
 <hr>
 
-<h2> Proxy Features
+<h2> Proxy Features<br>
   <samp> Spam Packet
   <samp> Change World Lock setting from Private to Public
   <samp> Spam blast
