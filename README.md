@@ -49,3 +49,89 @@ Here to run a proxy on Android is very complicated, if you want please look for 
   - <samp> Delete world data </samp> <br>
   - <samp> Change News </samp> <br>
   - <samp> For more command, you can check by type this `/proxy` </samp>
+
+<hr>
+
+### Files
+```
+Growtopia-Proxy/
+      /proxy
+          /enet
+             /include
+                  - callbacks.h
+                  - enet.h
+                  - list.h
+                  - protocol.h
+                  - time2.h
+                  - types.h
+                  - unix.h
+                  - utility.h
+                  - win32.h
+             - callbacks.c
+             - compress.c
+             - host.c
+             - list.c
+             - packet.c
+             - peer.c
+             - protocol.c
+             - unix.c
+             - win32.c
+          /proton
+             - hash.hpp
+             - rtparam.hpp
+             - variant.hpp
+             - vector.hpp
+          /sandbird
+             - sandbird.c
+             - sandbird.h
+          /x64/Debug
+             /proxy.tlog
+                  - CL.command.1.tlog
+                  - CL.read.1.tlog
+                  - CL.write.1.tlog
+                  - link.command.1.tlog
+                  - link.read.1.tlog
+                  - link.write.1.tlog
+                  - proxy.lastbuildstate
+             - callbacks.obj
+             - compress.obj
+             - events.obj
+             - gt.obj
+             - host.obj
+             - http.obj
+             - list.obj
+             - packet.obj
+             - peer.obj
+             - protocol.obj
+             - proxy.exe.recipe
+             - proxy.ilk
+             - proxy.log
+             - proxy.obj
+             - sandbird.obj
+             - server.obj
+             - unix.obj
+             - utils.obj
+             - vc142.idb
+             - vc142.pdb
+             - win32.obj
+          - events.cpp
+          - events.h
+          - gt.cpp
+          - gt.hpp
+          - http.cpp
+          - json.hpp
+          - packet.h
+          - player.h
+          - proxy.cpp
+          - proxy.vcxproj
+          proxy.vcxproj.filters
+          - proxy.vcxproj.user
+          - server.cpp
+          - server.h
+          - utils.cpp
+          - utils.h
+          - version.txt
+          - world.h
+      .gtignore
+      build.sh
+      proxy.sln
