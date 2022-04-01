@@ -15,7 +15,7 @@ First, [download](https://visualstudio.microsoft.com/downloads/) Visual Studio `
 - Download the file, click to [download](https://github.com/EternalsDev/Growtopia-Proxy/archive/refs/heads/main.zip)
 - Extrack (`free to extract where`).
 - Open Visual Studio
-- Open file -> Proxy
+- Open file -> proxy.sln
 - Build the Proxy
 - Done
 
