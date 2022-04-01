@@ -135,3 +135,9 @@ Growtopia-Proxy/
       .gtignore
       build.sh
       proxy.sln
+```
+
+<hr>
+
+### More
+- This proxy was made by [aman6nen](https://github.com/ama6nen) and modified by [Eternals](https://github.com/EternalsDev)
