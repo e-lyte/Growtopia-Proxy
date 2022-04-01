@@ -27,4 +27,7 @@ First, [download](https://visualstudio.microsoft.com/downloads/) Visual Studio `
 $pkg upgrade
 $pkg install wget
 ```
-- 
+- When done, type this
+```
+wget https://github.com/EternalsDev/Growtopia-Proxy
+```
