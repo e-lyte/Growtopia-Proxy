@@ -138,3 +138,5 @@ Growtopia-Proxy/
 ```
 
 <hr>
+
+Credit to ama6nen
