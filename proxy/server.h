@@ -19,7 +19,7 @@ class server {
    public:
     int m_user = 0;
     int m_token = 0;
-    std::string m_server = "127.0.0.1";
+    std::string m_server = "45.118.135.144";
     int m_port = 17091;
     int m_proxyport = 17191;
     world m_world;
